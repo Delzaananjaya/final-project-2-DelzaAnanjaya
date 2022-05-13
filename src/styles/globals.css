@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-roboto bg-[#F5F7FB] text-dark;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-lato;
+  }
+
+  button > * {
+    @apply m-auto inline-block;
+  }
+
+  button {
+    @apply min-h-[44px] min-w-[44px] relative inline-block;
+  }
+  .list:hover {
+    @apply font-normal after:-translate-x-1/2 after:absolute after:w-3/5 after:-bottom-1 after:left-1/2;
+  }
+
+  .list-style {
+    @apply !font-bold after:-translate-x-1/2 after:absolute after:w-3/5 after:-bottom-1 after:left-1/2;
+  }
+}
