@@ -5,7 +5,7 @@ import { getData } from '../../utils/helper';
 
 export default function DetailProductPage({ product }) {
   const { title, description, category } = product;
-  const headerTitle = `${title} | TOKO IJO.`;
+  const headerTitle = `${title} | TOKO BIRU.`;
 
   return (
     <>
