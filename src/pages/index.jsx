@@ -22,7 +22,7 @@ export default function HomePage({ products }) {
         <title>TOKO BIRU | Situs Jual Beli Online Terlengkap, Murah & Aman</title>
         <meta
           name="description"
-          content="Shoply merupakan web e-commerce yang dibuat oleh Muhammad Raihan S dan Muhammad Rian. Kami berusaha mendesign dengan tema modern dan menggunakan framework Next agar pengguna dapat merasakan pengalaman yang baik."
+          content="Toko Biru merupakan web e-commerce yang dibuat oleh Delza Ananjaya. Kami berusaha mendesign dengan tema modern dan menggunakan framework Next agar pengguna dapat merasakan pengalaman yang baik."
         />
       </Head>
       {isAdmin ? (
