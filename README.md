@@ -5,6 +5,13 @@ Project ini telah dibuat oleh:
 ### RCTN-KS03-007
 ### Universitas Gunadarma
 ### delza.roket50@gmail.com
+### Link Deploy Netlify : https://6288f145837244131a7a7632--tokobiru-delzaananjaya.netlify.app/
+### ADMIN
+### Username : admin@bukapedia.com
+### Password : admin123
+### USER
+### Username : johnd
+### Password : m38rmF$
 
 # OUTPUT TOKO BIRU
 
